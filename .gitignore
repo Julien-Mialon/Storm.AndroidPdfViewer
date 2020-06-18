@@ -279,12 +279,6 @@ $RECYCLE.BIN
 .DS_Store
 *.serilog.txt
 
-#Localization files
-*.Localization.cs
-Localizable.strings
-strings.xml
-colors.xml
-*.csproj.bak
 
 #MFractor
 *.droidres/
