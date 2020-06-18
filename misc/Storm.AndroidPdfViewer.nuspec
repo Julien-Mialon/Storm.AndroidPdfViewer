@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>{id}</id>
+        <version>{version}</version>
+        <title>Storm - AndroidPdfViewer</title>
+        <authors>{author}</authors>
+        <owners>Storm</owners>
+        <license type="expression">MIT</license>
+        <projectUrl>https://github.com/Julien-Mialon/Storm.AndroidPdfViewer</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Xamarin.Android binding of https://github.com/barteksc/AndroidPdfViewer</description>
+        <releaseNotes>{release_notes}</releaseNotes>
+        <copyright>Copyright 2020</copyright>
+        <tags>xamarin android binding pdf pdfview pdfviewer viewer</tags>
+        <repository type="git" url="https://github.com/Julien-Mialon/Storm.AndroidPdfViewer" />
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid10.0" />
+        </frameworkAssemblies>
+    </metadata>
+</package>
